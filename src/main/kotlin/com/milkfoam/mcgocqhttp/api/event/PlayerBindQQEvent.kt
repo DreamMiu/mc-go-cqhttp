@@ -6,4 +6,6 @@ import taboolib.platform.type.BukkitProxyEvent
 class PlayerBindQQEvent(
     val qq: String,
     val name: String
-) : BukkitProxyEvent()
+) : BukkitProxyEvent() {
+
+}
