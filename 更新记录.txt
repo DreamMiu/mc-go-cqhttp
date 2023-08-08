@@ -1,0 +1,29 @@
+2023年07月19日
+· 发布插件
+
+2023年07月20日
+· 修改MessageEvent为QQMessageEvent
+· 增加save(uuid: UUID, qq: String)方法
+
+2023年07月24日
+· 修复event事件不触发
+· 增加报错调试信息
+
+2023年08月01日
+· 新增多个API [getPlayerData() getGroupMemberList() getStrangerQQInfo()] 详细用法请查看源代码
+· 新增UserData数据类以及GroupMember数据类以便开发者能够获取更多数据
+· 新增reload、add、remove的消息提示
+· 新增lookBind、lookAllBind的指令提供给管理员查看玩家的QQ信息
+· 新增check指令以及定期检查，作用是检查玩家绑定后是否在群聊内，否则移除绑定
+· 新增绑定账号时检测QQ号的等级，可以自定义最小等级
+· 新增绑定消息艾特玩家功能，更利于让玩家分辨自己是否绑定
+· 修改并且优化BindEvent的代码
+· 修改解析json数据方法为jsonstring转object解析，更加快速
+· 修复玩家同时绑定会出现绑定失败的现象
+· 修复以OP身份执行OP指令出现报错现象
+· 修复超时依旧处于绑定状态
+· 修复玩家在绑定状态时退出服务器导致一直处于绑定状态
+
+
+
+

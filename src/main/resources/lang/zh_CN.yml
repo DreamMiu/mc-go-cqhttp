@@ -1,0 +1,20 @@
+#发送至QQ的消息
+QQ-notFindPlayer: "你绑定的玩家不在线或者不存在"
+QQ-sendMessageToMinecraft: "已经发送消息至此账号，请查看游戏内消息"
+QQ-Success: "绑定成功!"
+QQ-TimeOut: "绑定超时,请重新申请绑定!"
+QQ-isBind: "你已经绑定,请勿重复绑定"
+QQ-isInBind: "此QQ账号正在绑定中,请取消之前遗留的绑定等待!"
+QQ-isInBindButLeave: "检测到你已退出游戏! 绑定自动取消"
+QQ-levelIsNotStandard: "此QQ等级不符合服务器设置的最低等级!请勿使用QQ小号绑定!"
+
+#发送至游戏的消息
+Minecraft-Bind: "&7QQ&a{0}&7申请与此账号&a{1}&7绑定\n&c30秒&7内输入&a确认绑定&7并按回车即可绑定!"
+Minecraft-BindKey: "确认绑定"
+Minecraft-Success: "&7绑定成功!"
+Minecraft-TimeOut: "&7绑定超时,请重新申请绑定!"
+Minecraft-isBind: "&7你已经绑定,请勿重复绑定"
+Minecraft-levelIsNotStandard: "此QQ等级不符合服务器设置的最低等级!请勿使用QQ小号绑定!"
+
+
+

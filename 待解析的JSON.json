@@ -1,0 +1,49 @@
+//私聊
+{
+	"post_type": "message",
+	"message_type": "private",
+	"time": 1690613301,
+	"self_id": 2707046905,
+	"sub_type": "friend",
+	"sender": {
+		"age": 0,
+		"nickname": "懵逼小唐。",
+		"sex": "unknown",
+		"user_id": 2479640157
+	},
+	"message_id": -1435950609,
+	"user_id": 2479640157,
+	"target_id": 2707046905,
+	"message": "123123123",
+	"raw_message": "123123123",
+	"font": 0
+}
+
+//群聊
+{
+	"post_type": "message",
+	"message_type": "group",
+	"time": 1690613031,
+	"self_id": 2707046905,
+	"sub_type": "normal",
+	"message_id": -1884091875,
+	"anonymous": null,
+	"font": 0,
+	"message": "1",
+	"message_seq": 277,
+	"raw_message": "1",
+	"group_id": 852244501,
+	"sender": {
+		"age": 0,
+		"area": "",
+		"card": "",
+		"level": "",
+		"nickname": "懵逼小唐。",
+		"role": "owner",
+		"sex": "unknown",
+		"title": "",
+		"user_id": 2479640157
+	},
+	"user_id": 2479640157
+}
+
